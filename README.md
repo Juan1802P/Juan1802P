@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⭐ Creando y resolviendo problemas desde 2004<br>💻 Apasionado por el desarrollo backend y frontend<br>📊 Con experiencia en bases de datos SQL y análisis de datos<br>🚀 He participado en proyectos integrales de software<br>⚙️ Me interesa la optimización de sistemas y gestión de información<br>🎯 Objetivo: Desarrollar soluciones eficientes e innovadoras<br>📚 Actualmente aprendiendo minería de datos y arquitectura de software</p>
+<p align="left">📊 Con experiencia en bases de datos SQL y análisis de datos<br>🚀 He participado en proyectos integrales de software<br>⚙️ Me interesa la optimización de sistemas y gestión de información<br>🎯 Objetivo: Desarrollar soluciones eficientes e innovadoras<br>📚 Actualmente aprendiendo minería de datos y arquitectura de software</p>
 
 ###
 
@@ -48,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"
 </div>
 
 ###
