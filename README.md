@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy Juan J. Forero Quiroz, estudiante de Ingeniería de Sistemas y Computación en 9º ciclo. Me especializo en desarrollo backend y frontend, bases de datos SQL y análisis de datos. Tengo experiencia en proyectos integrales de software, optimización de sistemas y gestión de información, siempre con un enfoque en la calidad y la innovación tecnológica.</p>
+<p align="left">Soy Juan J. Forero Quiroz, egresado de Ingeniería de Sistemas y Computación. Me especializo en desarrollo backend y frontend, bases de datos SQL y análisis de datos. Tengo experiencia en proyectos integrales de software, optimización de sistemas y gestión de información, siempre con un enfoque en la calidad y la innovación tecnológica.</p>
 
 ###
 
